@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "587322124435",
+    "project_id": "fir-animes",
+    "storage_bucket": "fir-animes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587322124435:android:4599066e6542a4021a4566",
+        "android_client_info": {
+          "package_name": "com.example.firebase_daves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587322124435-ndgmm5i12mjbrmf0f3vhg50nc5b6e31k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArM6fBuXHGVSPPC7HQV91dXzYqQR4z1bY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587322124435-ndgmm5i12mjbrmf0f3vhg50nc5b6e31k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
